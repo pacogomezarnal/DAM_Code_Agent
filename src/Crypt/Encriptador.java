@@ -14,7 +14,7 @@ public class Encriptador {
 	 * @return       el String encriptado
 	 */
 	public String encriptarFrase(String frase) {
-		return frase;
+		return frase+"@";
 	}
 
 }
